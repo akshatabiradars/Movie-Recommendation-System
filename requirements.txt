@@ -2,5 +2,5 @@ streamlit
 scikit-learn
 pandas < 2
 numpy
-pickle
+pickle5
 requests
